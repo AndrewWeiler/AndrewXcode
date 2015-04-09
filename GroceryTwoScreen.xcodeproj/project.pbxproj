@@ -14,6 +14,7 @@
 		496CCC931AD4B66600AF9D22 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 496CCC921AD4B66600AF9D22 /* Images.xcassets */; };
 		496CCC961AD4B66600AF9D22 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 496CCC941AD4B66600AF9D22 /* LaunchScreen.xib */; };
 		496CCCA21AD4B66600AF9D22 /* GroceryTwoScreenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496CCCA11AD4B66600AF9D22 /* GroceryTwoScreenTests.swift */; };
+		496CCCAC1AD4BC8A00AF9D22 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496CCCAB1AD4BC8A00AF9D22 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		496CCC9B1AD4B66600AF9D22 /* GroceryTwoScreenTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GroceryTwoScreenTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		496CCCA01AD4B66600AF9D22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		496CCCA11AD4B66600AF9D22 /* GroceryTwoScreenTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroceryTwoScreenTests.swift; sourceTree = "<group>"; };
+		496CCCAB1AD4BC8A00AF9D22 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				496CCC8B1AD4B66600AF9D22 /* FirstViewController.swift */,
 				496CCC8D1AD4B66600AF9D22 /* SecondViewController.swift */,
 				496CCC8F1AD4B66600AF9D22 /* Main.storyboard */,
+				496CCCAB1AD4BC8A00AF9D22 /* ThirdViewController.swift */,
 				496CCC921AD4B66600AF9D22 /* Images.xcassets */,
 				496CCC941AD4B66600AF9D22 /* LaunchScreen.xib */,
 				496CCC871AD4B66600AF9D22 /* Supporting Files */,
@@ -217,6 +220,7 @@
 			files = (
 				496CCC8E1AD4B66600AF9D22 /* SecondViewController.swift in Sources */,
 				496CCC8A1AD4B66600AF9D22 /* AppDelegate.swift in Sources */,
+				496CCCAC1AD4BC8A00AF9D22 /* ThirdViewController.swift in Sources */,
 				496CCC8C1AD4B66600AF9D22 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

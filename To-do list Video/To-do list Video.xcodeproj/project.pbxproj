@@ -14,6 +14,7 @@
 		496CCCF31AD6E44300AF9D22 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 496CCCF21AD6E44300AF9D22 /* Images.xcassets */; };
 		496CCCF61AD6E44300AF9D22 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 496CCCF41AD6E44300AF9D22 /* LaunchScreen.xib */; };
 		496CCD021AD6E44300AF9D22 /* To_do_list_VideoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496CCD011AD6E44300AF9D22 /* To_do_list_VideoTests.swift */; };
+		496CCD0E1AD6E4BB00AF9D22 /* Task Manager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496CCD0D1AD6E4BB00AF9D22 /* Task Manager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		496CCCFB1AD6E44300AF9D22 /* To-do list VideoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "To-do list VideoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		496CCD001AD6E44300AF9D22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		496CCD011AD6E44300AF9D22 /* To_do_list_VideoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_do_list_VideoTests.swift; sourceTree = "<group>"; };
+		496CCD0D1AD6E4BB00AF9D22 /* Task Manager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Task Manager.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				496CCCE91AD6E44300AF9D22 /* AppDelegate.swift */,
 				496CCCEB1AD6E44300AF9D22 /* FirstViewController.swift */,
 				496CCCED1AD6E44300AF9D22 /* SecondViewController.swift */,
+				496CCD0D1AD6E4BB00AF9D22 /* Task Manager.swift */,
 				496CCCEF1AD6E44300AF9D22 /* Main.storyboard */,
 				496CCCF21AD6E44300AF9D22 /* Images.xcassets */,
 				496CCCF41AD6E44300AF9D22 /* LaunchScreen.xib */,
@@ -218,6 +221,7 @@
 				496CCCEE1AD6E44300AF9D22 /* SecondViewController.swift in Sources */,
 				496CCCEA1AD6E44300AF9D22 /* AppDelegate.swift in Sources */,
 				496CCCEC1AD6E44300AF9D22 /* FirstViewController.swift in Sources */,
+				496CCD0E1AD6E4BB00AF9D22 /* Task Manager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
